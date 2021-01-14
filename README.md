@@ -19,4 +19,6 @@
 
 <hr />
 
-- Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Criando seu próprio jogo da velha com HTML e Javascript](https://web.digitalinnovation.one/lab/recriando-o-famoso-jogo-do-dinossauro-sem-internet/learning/f3a3e8c6-7a18-4653-942b-7ca144043213 "Recriando o famoso jogo do dinossauro sem internet").
+<p align="left">
+  Desafio prático realizado na plataforma <a href="https://web.digitalinnovation.one/home">Digital Innovation One</a>: <a href="https://web.digitalinnovation.one/lab/recriando-o-famoso-jogo-do-dinossauro-sem-internet/learning/f3a3e8c6-7a18-4653-942b-7ca144043213">Recriando o famoso jogo do dinossauro sem internet.</a>
+</p>

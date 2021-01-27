@@ -1,4 +1,4 @@
- 🦖 <h1 align="center">DINO GAME :cactus:</h1>
+ <h1 align="center">🦖 DINO GAME :cactus:</h1>
 
 <p align="center">
   <a href="https://lucasrmagalhaes.github.io/dinoGame-js/">
